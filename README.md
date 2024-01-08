@@ -1,4 +1,4 @@
-![cover](https://loremflickr.com/1400/350/astronomy)
+![cover](https://github.com/ctrleffive/ctrleffive/assets/35224957/7f29c712-753d-40cb-8fc6-a62541addf88)
 
 # Hello! 👋
 
