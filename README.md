@@ -1,9 +1,9 @@
-![cover](https://github.com/ctrleffive/ctrleffive/assets/35224957/692a4cc6-3407-431f-a22a-4c678ae9a05f)
+![cover](https://loremflickr.com/1400/350/astronomy)
 
 # Hello! 👋
 
 ### I am **Chandu**.
-A full-stack developer who is passionate about technologies & loves to learn new things.
+A full-stack developer who is passionate about technology & loves to learn new things.
 
 ##  😌 About me
 - 📆 Currently working at [HootBoard](http://hootboard.com/) ([we are hiring!](https://wellfound.com/company/hootboard)).
@@ -30,14 +30,15 @@ Here are a few things I've picked up along my learning journey.
 - [Case Studies (Photos)](https://photos.app.goo.gl/Pp3cj22KdBw5Et8r8)
 
 ## 📫 Get in touch
-- You can find me pretty much everywhere with handle @ctrleffive.
+- You can find me pretty much everywhere with the handle @ctrleffive.
 - Drop an email at **hi@chandujs.com**.
 - [Dev.to](https://dev.to/ctrleffive), [LinkedIn](https://www.linkedin.com/in/ctrleffive/), [Twitter](https://twitter.com/ctrleffive), [Reddit](https://www.reddit.com/user/ctrleffive), [Vero](https://vero.co/ctrleffive).
 
 ## ✨ I love to
+- Do skywatching.
 - Troubleshoot & fix problems.
-- Play with scripts & automations.
-- Listen music & podcasts.
+- Play with scripts & automation.
+- Listen to music & podcasts.
 - Build PCs.
 - Take photos.
 - Watch movies.
