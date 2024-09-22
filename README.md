@@ -6,7 +6,7 @@
 A full-stack developer who is passionate about technology & loves to learn new things.
 
 ##  😌 About me
-- 📆 Currently working at [HootBoard](http://hootboard.com/) ([we are hiring!](https://wellfound.com/company/hootboard)).
+- 📆 Currently working at [HootBoard](http://hootboard.com).
 - 👨‍💻 Active in development since 2014.
 - 📍 From Trivandrum, Kerala, India.
 
@@ -25,7 +25,6 @@ Here are a few things I've picked up along my learning journey.
 
 ## 🏞️ My work
 - [Website/Portfolio](https://chandujs.com/work)
-- [Vero](https://vero.co/ctrleffive)
 - [Case Studies (Code)](https://github.com/ctrleffive?tab=repositories)
 - [Case Studies (Photos)](https://photos.app.goo.gl/Pp3cj22KdBw5Et8r8)
 
