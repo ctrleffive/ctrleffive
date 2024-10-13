@@ -3,7 +3,7 @@
 # Hello! 👋
 
 ### I am **Chandu**.
-A full-stack developer who is passionate about technology & loves to learn new things.
+A software engineer who is passionate about technology & loves to learn new things.
 
 ##  😌 About me
 - 📆 Currently working at [HootBoard](http://hootboard.com).
